@@ -1,0 +1,20 @@
+:root {
+	--background-color: #10002b;
+	--grid-color: #240046;
+	--header-color: #f72585;
+	--paragraph-color: #ffd6ff;
+}
+
+body {
+	background: var(--background-color);
+}
+
+h1,
+h2,
+h3 {
+	color: var(--header-color);
+}
+
+p {
+	color: var(--paragraph-color);
+}

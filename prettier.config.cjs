@@ -8,6 +8,6 @@ module.exports = {
   singleQuote: false,
   trailingComma: "es5",
   printWidth: 80,
-  tabWidth: 1, // Set tab width to 1
+  tabWidth: 2, // Set tab width to 2
   useTabs: false, // Use tabs instead of spaces
 };
